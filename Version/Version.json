@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
+  "version": "1.0",
   "release_name": "The Phoenix Update",
   "release_date": "2025-09-01",
   "status": "stable",
@@ -39,3 +39,4 @@
   ]
 
 }
+
